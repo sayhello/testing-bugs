@@ -129,7 +129,7 @@ article p span:last-child:before {
 	height: 70px;
 	padding: 10px 15px;
 	width: 100% !important;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 
 	-webkit-appearance: none;
 	-moz-appearance: none;
