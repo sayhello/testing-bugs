@@ -1,0 +1,36 @@
+.header.header-11 .navbar-top {
+	line-height: 100px;
+}
+.header.header-11 .navbar-brand {
+	float: none;
+}
+.header.header-11 .top-left .icon {
+	background: #f3f3f3;
+	height: 25px;
+	line-height: 28px;
+	text-align: center;
+	width: 25px;
+}
+.header.header-11 .navbar-nav>li>a,
+.header.header-11 .search-box,
+.header.header-11 .shop-cart {
+	line-height: 75px !important;
+}
+.header.header-11 .menu-item-has-children:hover>ul.sub-menu {
+	top: 77px;
+}
+.header.header-11 .menu-item-has-children>ul.sub-menu:hover .sub-menu {
+	top: 0;
+}
+.header.header-11 .right-box,
+.header.header-11 .navbar-brand img {
+	display: inline-block;
+}
+.header.header-11 .top-right {
+	display: inline-block;
+	line-height: 100px;
+	margin-left: 30px;
+}
+.header.header-11 .top-right a {
+	padding-left: 25px;
+}

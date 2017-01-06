@@ -1,0 +1,21 @@
+
+.header.header-07 nav.collapse.navbar-collapse {
+	display: inline-block !important;
+}
+.header.header-07 .navbar-nav,
+.header.header-07 .right-box {
+	display: inline-block;
+	float: none;
+	vertical-align: text-top;
+}
+.header.header-07 .header-bottom .navbar-brand {
+	float: none;
+	line-height: 223px;
+	padding: 0 !important;
+}
+.header.header-07 .header-bottom .navbar-brand img {
+	display: inline-block;
+}
+.header.header-07 .sub-menu {
+	text-align: left;
+}

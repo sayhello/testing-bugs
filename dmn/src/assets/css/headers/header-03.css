@@ -1,0 +1,40 @@
+.header.light-dark,
+.header.light-dark .cart-items {
+	background: rgba(0, 0, 0, 0.55);	
+}
+.header.light-dark .sub-menu,
+.header.light-dark .sub-menu.mega-menu .row,
+.header.light-dark .search-form {
+	background: rgba(0, 0, 0, 0.55);
+}
+.header.light-dark .navbar-nav li>a,
+.header.light-dark .navbar-nav li>a:hover {
+	color: #fff !important;
+}
+.header.light-dark .search-icon,
+.header.light-dark .cart-control,
+.header.light-dark .menu-title,
+.header.light-dark .menu-contact,
+.header.light-dark p {
+	color: #fff;
+}
+.header.light-dark .cart-control .count {
+	background: #fff;
+	color: #000;
+}
+.header.light-dark .item-title,
+.header.light-dark .item-title a,
+.header.light-dark .current-price,
+.header.light-dark .rating,
+.header.light-dark i,
+.header.light-dark .item-details,
+.header.light-dark .cart-middle {
+	color: #fff;
+}
+.header.light-dark .btn {
+	border-color: #fff;
+	color: #fff;
+}
+.header.light-dark .btn:hover {
+	border-color: #262626;
+}

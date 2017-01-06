@@ -1,0 +1,40 @@
+
+.header.header-09 nav {
+	display: inline-block;
+}
+.header.header-09 .navbar-nav,
+.header.header-09 .right-box {
+	display: inline-block;
+	float: none;
+	vertical-align: text-top;
+}
+.header.header-09 .navbar-top .navbar-brand {
+	float: none;
+	line-height: 185px;
+	padding: 0 !important;
+}
+.header.header-09 .navbar-top .navbar-brand img {
+	display: inline-block;
+}
+.header.header-09 .navbar-nav>li:first-child>a {
+	padding-left: 0 !important;
+}
+.header.header-09 .sub-menu {
+	text-align: left;
+}
+.header.header-09 .top-contact .icon {
+	padding-right: 5px;
+}
+.header.header-09 .top-right {
+	font-family: 'Roboto';
+	font-size: 13px;
+	line-height: 100px;
+	text-transform: uppercase;
+}
+.header.header-09 .top-right a {
+	color: #8c8c8c;
+	padding-left: 25px;
+}
+.header.header-09 .top-right .icon {
+	font-size: 9px;
+}
